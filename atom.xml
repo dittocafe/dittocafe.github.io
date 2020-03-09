@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dittocafe.github.io</id>
-    <title>北京西海</title>
-    <updated>2020-03-09T06:59:41.728Z</updated>
+    <title>北 | 京 | 西 | 海</title>
+    <updated>2020-03-09T07:02:50.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dittocafe.github.io"/>
     <link rel="self" href="https://dittocafe.github.io/atom.xml"/>
-    <subtitle>生活碎碎念。</subtitle>
+    <subtitle>生活碎碎念，公众号：北京西海。</subtitle>
     <logo>https://dittocafe.github.io/images/avatar.png</logo>
     <icon>https://dittocafe.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, 北京西海</rights>
+    <rights>All rights reserved 2020, 北 | 京 | 西 | 海</rights>
     <entry>
         <title type="html"><![CDATA[宅不动了！47天宅居变迁。]]></title>
         <id>https://dittocafe.github.io/post/zhai-bu-dong-liao/</id>
