@@ -7,7 +7,9 @@
 本网站主要有三部分：
 
 [巴菲特致股东的信](https://www.dittocafe.com/buffettletter)
+
 [投资人分享](https://www.dittocafe.com/shared)
+
 [Al BROOKS 价格行为学](https://www.dittocafe.com/albrookspriceaction)
 
 欢迎光临。
